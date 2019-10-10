@@ -1,0 +1,14 @@
+package com.davijob.cartrspringmysql;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CartrServerSpringMysqlApplication {
+
+
+	public static void main(String[] args) {
+		SpringApplication.run(CartrServerSpringMysqlApplication.class, args);
+	}
+
+}
